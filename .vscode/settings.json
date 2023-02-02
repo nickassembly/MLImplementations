@@ -1,5 +1,8 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.analysis.extraPaths": ["C:\\Users\\nickg\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\"]
+    "python.analysis.extraPaths": [
+        "C:\\Users\\nickg\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\"
+    ],
+    "python.analysis.typeCheckingMode": "off"
 }
